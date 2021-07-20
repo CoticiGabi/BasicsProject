@@ -14,7 +14,7 @@
     "react-bootstrap": "^1.0.1",
     "react-bootstrap-typeahead": "^4.2.2",
     "react-dom": "^16.13.1",
-    "react-native": "^0.60.5",
+    "react-native": "^0.62.3",
     "react-native-searchable-dropdown": "^1.1.1",
     "react-router": "^5.2.0",
     "react-router-dom": "^5.1.2",
